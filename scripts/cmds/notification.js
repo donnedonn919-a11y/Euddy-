@@ -1,6 +1,6 @@
 const { getStreamsFromAttachment } = global.utils;
 
-const ADMIN_GROUP_ID = "30760229970228810";
+const ADMIN_GROUP_ID = "1835310393756929";
 const sentMessages = new Map();
 
 function wrapText(text, maxLength = 42) {
