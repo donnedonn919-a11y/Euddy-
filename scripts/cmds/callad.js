@@ -2,7 +2,7 @@ const { getStreamsFromAttachment, log } = global.utils;
 const mediaTypes = ["photo", "png", "animated_image", "video", "audio"];
 
 // 🆔 Groupe admin où tu reçois les messages
-const ADMIN_GROUP_TID = "30760229970228810";
+const ADMIN_GROUP_TID = " 1286661779130987";
 
 module.exports = {
     config: {
